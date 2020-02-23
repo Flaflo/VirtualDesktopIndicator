@@ -1,6 +1,6 @@
 # MOVED
 The original developer has moved his repository and merged the changes of this one
-You can find it here: https://github.com/0gdump/windows-virtualdesktopindicator
+you can find it here: https://github.com/0gdump/windows-virtualdesktopindicator
 
 [![Build status](https://ci.appveyor.com/api/projects/status/28spgc5ew3ga81rj?svg=true)](https://ci.appveyor.com/project/reserfodium/virtualdesktopindicator)
 
